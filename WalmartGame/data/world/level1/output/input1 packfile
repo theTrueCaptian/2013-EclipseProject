@@ -1,0 +1,145 @@
+
+input1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+level
+  rotate: false
+  xy: 0, 0
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: 1
+level
+  rotate: false
+  xy: 35, 0
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: 2
+level
+  rotate: false
+  xy: 70, 0
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 3
+level
+  rotate: false
+  xy: 0, 35
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 4
+level
+  rotate: false
+  xy: 34, 35
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 5
+level
+  rotate: false
+  xy: 68, 35
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: 5
+level
+  rotate: false
+  xy: 0, 70
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: 7
+level
+  rotate: false
+  xy: 35, 70
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: 8
+level
+  rotate: false
+  xy: 70, 70
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: 9
+level
+  rotate: false
+  xy: 0, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+level
+  rotate: false
+  xy: 34, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+level
+  rotate: false
+  xy: 68, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+level
+  rotate: false
+  xy: 0, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+level
+  rotate: false
+  xy: 0, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+level
+  rotate: false
+  xy: 0, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+level
+  rotate: false
+  xy: 34, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+level
+  rotate: false
+  xy: 68, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+level
+  rotate: false
+  xy: 34, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+level
+  rotate: false
+  xy: 34, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+level
+  rotate: false
+  xy: 68, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18

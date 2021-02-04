@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<story>
+    <scene>
+        <touch>
+            <sound>epicBismillah.wav</sound>
+            <background>background1.png</background>
+        </touch>
+		<touch>
+		    <background>cannan.jpg</background>
+		    <narrate>
+		    The story of Prophet Yusuf a.s. starts in a far away land called Cannan. (Note: a.s. is Arabic for peace be upon him.)
+			</narrate>
+		</touch>
+		<touch>
+		    <question> Who is his father?
+			 <wrong> Prophet Yunus a.s.</wrong>
+			 <wrong> Prophet Zakariah a.s.</wrong>
+			 <correct>Prophet Ya'qub a.s.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			 His father is Prophet Ya'qub a.s.
+			</answer>
+		</touch>
+		<touch>
+		    <background>nebula.jpg</background> 
+		    <narrate>
+					Prophet Yusuf a.s. had plenty of brothers.
+		 	</narrate>
+		 </touch>
+		<touch>
+		    <question>
+			 How many brothers did he have?
+			 <wrong> 10 brothers </wrong>
+			 <correct> 11 brothers</correct>
+			 <wrong> 12 brothers</wrong>
+			 
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			 Yusuf a.s. had 11 brothers. One was named Benyamin and the 10 others were his stepbrothers. 
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			 Which one is true?
+			 <correct>Benyamin is the youngest.</correct>
+			 <wrong> Yusuf and Benyamin are twins.</wrong>
+			 <wrong> Yusuf is the oldest.</wrong>
+			 </question>
+		</touch>
+		<touch>
+			<answer>
+			 Benyamin is the youngest.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			 Who did Prophet Ya'qub liked?
+			 <wrong>Yusuf.</wrong>
+			 <wrong>Benyamin.</wrong>
+			 <correct>Both.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			 Prophet Ya'qub liked Yusuf and Benyamin alot more than his other sons.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			One day, Prophet Yusuf had a dream.
+			</narrate>
+		</touch>		 	 
+		<touch>
+		    <background>starrysky.png</background>
+			<question>			
+			What did he see in his dream?
+			 
+			 <correct> 11 stars, the Sun, and the Moon bowing to him.</correct>
+			 <wrong> 12 stars, the Sun, and the Moon bowing to him.</wrong>
+			 <wrong>An empty sky.</wrong>
+			 
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			 In his dream he saw, 11 stars, the Sun, and the Moon bowing to him.
+			 
+			 <sound>verse4.wav</sound>
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did his father tell him to not do?
+			<wrong>"Don't sleep ever again"</wrong>
+			<correct>"Don't tell your brothers"</correct>
+			<wrong>"Don't sleep outside of the house"</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Ya'qub said, "Don't tell your brothers about your dream. They might harm you. Satan is open enemy to you."
+			<sound>verse5.wav</sound>
+			</answer>
+		</touch>
+		<touch>
+		    <background>metaldoor.jpg</background>
+			<sound>verse8.wav</sound>
+			<narrate>
+			Meanwhile, the stepbrothers gathered together and said, "Yusuf and Benyamin are a lot more loved by our father. But we are stronger than those two. Our father is wrong." 
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Finally, they decided to get rid of Yusuf a.s.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why did they get rid of Yusuf a.s.?		
+			<wrong>Yusuf told them his dream.</wrong>
+			<correct>They were jealous of him.</correct>
+			<wrong>They wanted his money.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			They are jealous of Yusuf.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			If they got rid of him, they thought their father would forget about him and like them.
+			<sound>verse9.wav</sound>
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			How did they do it?
+			<wrong>They killed him.</wrong>
+			<wrong>They let a wolf eat him</wrong>
+			<correct>They threw him in a deep well.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			One of them said, "Don't kill him; throw him to the bottom of a well."
+			<sound>verse10.wav</sound>
+			</answer>
+		</touch>
+		<touch>
+			<background>woodroom.jpg</background>
+			<narrate>
+			After their meeting, they met with their father.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			They asked their father if they could bring Yusuf with them.
+			<sound>verse12.wav</sound>
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			They reminded their father that they were strong, and that they could protect him.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			But Prophet Ya'qub was afraid.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why was he afraid?
+			<wrong>The stepbrothers might kill Yusuf.</wrong>
+			<correct>A wolf could eat Yusuf.</correct>
+			<wrong>Yusuf was grounded, so he couldn't go out.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <background>elephants.jpg</background>
+			<answer>
+			He was afraid that a wolf would eat Yusuf.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The stepbrothers said, "If a wolf eats him while we are a strong group, we must be losers."
+			<sound>verse14.wav</sound>
+			</narrate>
+		</touch>
+		<touch>
+		    <background>outside.jpg</background>	
+			<narrate>
+			The brothers finally convinced their father and got Yusuf to go out with them.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What happenned when the stepbrothers and Yusuf went out?
+			<wrong>They let a wolf eat Yusuf.</wrong>
+			<correct>They threw him into a well</correct>
+			<wrong>They left him in a far away land.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <background>stonepavement.jpg</background>
+			<answer>
+			The stepbrothers threw him into a deep well and left him.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			That night, the brothers came home crying.		
+			<sound>verse16.wav</sound>
+			</narrate>
+		</touch>
+		<touch>
+			<background>woodroom.jpg</background>
+			<sound>verse17.wav</sound>
+			<narrate>	
+			They said to their father that a wolf had eaten Yusuf.
+			</narrate>
+		</touch>
+		<touch>
+		    <background>blood.jpg</background>
+			<narrate>
+			They showed him their evidence.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did they show Yaqub?
+			<correct>Yusuf's shirt with blood on it.</correct>
+			<wrong>The wolf's tooth.</wrong>
+			<wrong>The blood on the wall.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			They had Yusuf's shirt with blood on it.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			But their father didn't believe them.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why didn't he believe that Yusuf was eaten?
+			<wrong>The stepbrothers always lie.</wrong>
+			<wrong>Allah s.w.t. revealed the truth to him.</wrong>
+			<correct>The shirt wasn't ripped.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The shirt was supposed to be ripped if a wolf really ate Yusuf.
+			</answer>
+		</touch>
+		<touch>
+			<background>nebula.jpg</background>
+			<question>	
+			What did Yaqub to do the lying brothers?
+			<correct>He decided to be patient.</correct>
+			<wrong>He grounded them.</wrong>
+			<wrong>He made them work alot.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse18.wav</sound>
+			<answer>
+			Prophet Ya'qub decided to be patient, because he knew only Allah could help him.
+			</answer>
+		</touch>
+		<touch>
+			<background>fossilcave.jpg</background>
+			<narrate>
+			Meanwhile, Prophet Yusuf was stuck in a deep well.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What happenned next?
+			<wrong>Allah saved Yusuf from the well and he ran to Egypt.</wrong>
+			<wrong>A man saved him from the well and bought him home.</wrong>
+			<correct>A caravan of travellers found Yusuf.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			A caravan of travellers found Yusuf.
+			</answer>
+		</touch>
+		<touch>
+		    <sound>verse19part1.wav</sound>
+			<narrate>
+			They sent a water-drawer to bring water from the well.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse19part2.wav</sound>
+			<narrate>
+			The water-drawer exclaimed that he found a boy in the well.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			They took Prophet Yusuf out of the well.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the travellers do to him?
+			<wrong>They took his money.</wrong>
+			<correct>They bought him to Egyt and sold him as a slave.</correct>
+			<wrong>They bought him home.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<background>egypt.png</background>
+			<sound>verse20.wav</sound>
+			<answer>
+			They took him to Egypt and sold him as a slave.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			Who is the man that bought Yusuf?		
+			<correct>He is a minister/treasurer (Aziz) of Egypt</correct>
+			<wrong>He is a merchant.</wrong>
+			<wrong>He is a farmer.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<background>orchard.jpg</background>
+			<answer>
+			The minister of Egypt bought Yusuf and took him to his home.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did they do when they got home?
+			<wrong>The minister made Yusuf work alot.</wrong>
+			<wrong>He told Yusuf to fix the roof.</wrong>
+			<correct>He loosen Yusuf chains.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The kind minister loosened the chains on Yusuf.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse21part1.wav</sound>
+			<narrate>
+			The minister said to his wife,"Make his stay comfortable, since he might help us or we may adopt him as our son.
+			</narrate>
+		</touch>
+		<touch>
+			<background>books.jpg</background>
+			<sound>verse22.wav</sound>
+			<narrate>
+			Meanwhile, Allah gave Yusuf a.s. knowledge and wisdom.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			During Yusuf's stay at the minister's home, what happenned?
+			<wrong>Yusuf was overworked anyways.</wrong>
+			<correct>The wife fell in love with Yusuf.</correct>
+			<wrong>The wife beat him up anyways.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<background>bluedecoration.jpg</background>
+			<answer>
+			The wife fell in love with handsome Yusuf.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did the wife do to Yusuf?
+			<wrong>She threatened Yusuf.</wrong>
+			<correct>She kept Yusuf in a room alone with her.</correct>
+			<wrong>The wife beat him up anyways.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<background>roomalone.jpg</background>		
+			<sound>verse23part1.wav</sound>
+			<answer>
+			She kept Yusuf in a room alone with her.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What was Yusuf's reaction?
+			<wrong>Yusuf obeyed her and made her cheat on her husband.</wrong>	
+			<wrong>Yusuf dissapeared into the air.</wrong>
+			<correct>He ran to the door.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			He ran to the door.	
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse23part2.wav</sound>
+			<narrate>
+			He said,"I ask for Allah's help! Your husband is my master, and he made my stay comfortable."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf didn't want to betray the kind master, the minister.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			As he was running to the door, the wife pulled on his shirt from the back. His shirt ripped. 
+			</narrate>
+		</touch>
+		<touch>
+			<background>aziz.jpg</background>
+			<narrate>
+			When he reached the door, the minister came in.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The minister saw his wife and his slave with his shirt torn apart.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did his wife tell him?
+			<correct>She blamed Yusuf for trying have an affair with her.</correct>
+			<wrong>She explained that she was punishing Yusuf.</wrong>
+			<wrong>She said that she wanted her roof to be fixed.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			She blamed Yusuf for trying have an affair with her.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			She wanted the minister to punish Yusuf.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did she suggest her husband to do to Yusuf?
+			<correct>Put Yusuf in prison or painful punishment.</correct>
+			<wrong>Banish Yusuf from Egypt.</wrong>
+			<wrong>Give him away to another slave master.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse25.wav</sound>
+			<answer>
+			She wanted her husband to put Yusuf in prison or a painful punishment.
+			</answer>
+		</touch>		
+		<touch>
+			<narrate>
+			While Yusuf was getting in trouble for something he didn't do, a witness came up to them.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the witness tell them?	
+			<wrong>"I saw the wife chasing Yusuf to do sin."</wrong>
+			<wrong>"If the shirt is torn from the front, then she is lying."</wrong>
+			<correct>"If the shirt is torn from the back, then she is lying."</correct>
+			</question>
+		</touch>
+		<touch>
+		    <sound>verse27.wav</sound>
+			<answer>
+			Because the witness saw the whole thing, she said, "If the shirt is torn from the back, then she (the wife) is lying and he(Yusuf) is speaking the truth."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			Since the wife was chasing Yusuf from behind, she had ripped his shirt from the back.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			They found his shirt ripped from behind, and Yusuf a.s. was proved innocent.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the minister decide to do?	
+			<correct>He told Yusuf a.s. to ignore what had happenned.</correct>
+			<wrong>He punished Yusuf a.s. anyways by sending him to prison.</wrong>
+			<wrong>He left him in the deep well again.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse29.wav</sound>
+			<answer>
+			He told Yusuf a.s. to ignore what had happenned, and he told his wife to ask Allah to forgive her.	
+			</answer>
+		</touch>
+		<touch>
+			<background>edgeofwater.jpg</background>
+			<narrate>
+			However, the people of Egypt began talking about the minister's wife falling in love with her slave, Yusuf a.s.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse30.wav</sound>
+			<narrate>
+			They said,"The wife of the minister loves her slave. She is wrong."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The wife didn't like the people talking about how she fell in love with Yusuf.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			She wanted to convince them that it wasn't her fault that she fell in love with her slave.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			How did she convince the people?	
+			<wrong>She made Yusuf tell the people that it wasn't her fault.</wrong>
+			<correct>She prepared a banquet to show Yusuf's beauty.</correct>
+			<wrong>She told everyone that she was drunk that day.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<background>banquet.jpg</background>
+			<answer>
+			She prepared a banquet to show Yusuf's beauty.	
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The women of the city gathered to her banquet, and they were given the knives used to cut the food.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The wife decided to call Yusuf to stand before all the women.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The women stared at him and were amazed at his charm.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What happenned while they were staring at Yusuf?
+			<wrong>They spilled their drinks.</wrong>
+			<correct>They accidentally cut their fingers.</correct>
+			<wrong>They fainted.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			They accidentally cut their fingers with the knives that were supposed to be used for the food.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse31.wav</sound>
+			<narrate>
+			They said, "He is none other than an angel!"
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse32part1.wav</sound>
+			<narrate>
+			The wife of the minister said, "I did fall in love with him, but he didn't listen to me."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			After seeing the handsome Yusuf, the women wanted Yusuf to listen and obey the wife of the minister.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			She knew Yusuf wouldn't listen to her, so she decided to punish him.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			How did she punish Yusuf?	
+			<correct>She sent Yusuf a.s. to prison.</correct>
+			<wrong>She made him work in the fields all day.</wrong>
+			<wrong>She didn't feed him.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse32part2.wav</sound>
+			<answer>
+			Yusuf refused to listen to the wife, so she sent him to prison.	
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			But what did Yusuf do?		
+			<wrong>He escaped from house of the minister that night.</wrong>
+			<wrong>He went to the king of Egypt and asked for help.</wrong>
+			<correct>He thought prison was better than betraying the kind minister.</correct>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse33.wav</sound>
+			<answer>
+			Yusuf said, "Oh Allah, prison is alot better than what they want me to do."
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse34.wav</sound>
+			<narrate>
+			And Allah accepted his prayer.
+			</narrate>
+		</touch>
+		<touch>
+			<background>prisonwalls.jpg</background>
+			<narrate>
+			While Yusuf was in prison, he met two other people.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the two want from Yusuf?		
+			<wrong>They wanted to destroy Egypt with Yusuf.</wrong>
+			<wrong>They wanted to escape prison with Yusuf.</wrong>
+			<correct>They wanted Yusuf to tell them the meaning of their dreams.</correct>
+			</question>
+		</touch>
+		<touch>
+			<background>prison.jpg</background>
+			<sound>verse36part3.wav</sound>
+			<answer>
+			They two men said,"Tell us the meaning of our dreams. We think that you are a good person."
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			Who were these two men?		
+			<wrong>The Egyptian king's cupbearer and horseman</wrong>
+			<correct>The king's cupbearer and cook</correct>
+			<wrong>The king's slave and adviser</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			These two men used to work as the king's cupbearer and cook.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did the cupbearer see in his dream?
+			<wrong>11 stars, the Sun, and the Moon bowing to him.</wrong>
+			<wrong>A cow eating other cows.</wrong>
+			<correct>He saw himself pressing wine.</correct>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse36part1.wav</sound>
+			<answer>
+			In the cupbearer's dream he saw himself pressing wine.
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did his dream mean?
+			<correct>He will be freed and pour wine for the king.</correct>
+			<wrong>He will be a companion of a prophet.</wrong>
+			<wrong>There will be no more wine in Egypt.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse41part1.wav</sound>
+			<answer>
+			Yusuf said, "You will pour wine for the king to drink."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			Since the cupbearer was going to be freed, Yusuf told cupbearer to mention his case to the king to get him freed. 
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the other man, the king's cook, see in his dream?	
+			<wrong>7 leans cows eating 7 fat cows.</wrong>
+			<correct>He saw himself carrying bread on his head, and birds were eating it.</correct>
+			<wrong>A boy being thrown into a well.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse36part2.wav</sound>
+			<answer>
+			The cook said, "I saw myself (in a dream) carrying bread on my head and birds were eating it."
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did the cook's dream mean?	
+			<wrong>It meant that he will donate bread all the time.</wrong>
+			<correct>It means that he will be crucified.</correct>
+			<wrong>A famine will hit Egypt.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse41part2.wav</sound>
+			<answer>
+			Yusuf a.s. said to the cook, "You will be crucified and birds will eat from your head."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The meanings of their dreams became true, and the cupbearer was freed and the cook was crucified.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse42.wav</sound>
+			<narrate>
+			But Satan caused the cupbearer to forget his promise he made to Yusuf a.s.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The cupbearer never mentioned the injustice done to Yusuf a.s. because he forgot.
+			</narrate>
+		</touch>
+		<touch>
+			<background>sunsetintheswamp.png</background>
+			<narrate>
+			However, while Yusuf was stuck in prison, the king of Egypt also had a dream.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the king see in his dream?	
+			<wrong>He saw himself carrying bread.</wrong>
+			<correct>He saw himself standing on the Niles River.</correct>
+			<wrong>He saw Yusuf in his dream.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			He saw himself standing on the banks on the Niles River.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			He also saw cows.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What were the cows doing?	
+			<wrong>The 7 skinny cows were eating the seven fat ones.</wrong>
+			<correct>The 7 fat cows were eating the seven skinny ones.</correct>
+			<wrong>The cows were eat everything they saw.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The king saw the 7 fat cows were eating the seven skinny ones.	
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What else did the king see?	
+			<correct>7 green ears of corn and 7 dry ones.</correct>
+			<wrong>7 green ears and 7 black ones.</wrong>	
+			<wrong>7 dry noses and 7 wet ones.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The king also saw 7 green ears of corn and 7 dry ones.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse43part1.wav</sound>
+			<narrate>
+			So the king said to his advisers and the people around him, "I saw 7 fat cows eat 7 skinny ones and 7 green corns and 7 dry ones.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse43part2.wav</sound>
+			<narrate>
+			The king continued,"O notables, explain to me my dream if you can."
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the notables say?		
+			<wrong>They thought there will be famine.</wrong>	
+			<wrong>They thought a prophet will come.</wrong>
+			<correct>They thought that it was a mixed up false dream.</correct>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse44.wav</sound>
+			<answer>
+			The notables thought it was a mixed up false dream, but they weren't skilled in interpreting dreams.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The cupbearer, who heard the king, remembered Yusuf a.s.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The cupbearer went to Yusuf and asked him what the king's dream meant.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the king's dream mean?	
+			<wrong>There will be 7 ears with 7 green ears.</wrong>	
+			<wrong>There will 7 cows eating 7 skinny ones.</wrong>
+			<correct>There will be a famine.</correct>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse47.wav</sound>
+			<answer>
+			Yusuf a.s. advised that for 7 years, the people shall farm and store some of the food for the later years.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse48.wav</sound>
+			<narrate>
+			He also said that after 7 years of good farming, there will 7 years afterwards, when the famine hits. And the people will be left with only what was stored from previous years.
+			</narrate>
+		</touch>
+		<touch>
+			<background>kingscarpet.jpg</background>
+			<sound>verse50part1.wav</sound>
+			<narrate>
+			When the king heard the meaning of his dream, he told his envoy to get Yusuf a.s. out of prison. 
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What hapenned when the envoy reached Yusuf a.s. place?	
+			<wrong>Yusuf a.s. went to king and thanked Allah.</wrong>	
+			<wrong>Yusuf a.s. was sleeping.</wrong>
+			<correct>Yusuf a.s. refused to be free.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf a.s. refused to be free.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The envoy returned to the king without Yusuf a.s. and told the king that Yusuf didn't want to be freed yet.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why didn't Yusuf want to go free?
+			<correct>He hasn't proved that he didn't do anything wrong.</correct>
+			<wrong>He was sleeping.</wrong>	
+			<wrong>He feared that the minster's wife would kill him.</wrong>	
+			</question>
+		</touch>
+		<touch>
+			<background>justice.jpg</background>
+			<answer>
+			Yusuf a.s. thought it was wrong to be freed without proving that he didn't do anything bad.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse50part2.wav</sound>
+			<narrate>
+			Yusuf told the envoy,"Return to your king and ask him, 'What happenned to the women who cut their hands?'"
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			When the king heard Yusuf's message, he called all the women who cut their hands and the wife of the minister.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the women say about Yusuf to the king?
+			<correct>"We know that he has done no evil."</correct>
+			<wrong>"He tried to have an affair with the minister's wife."</wrong>	
+			<wrong>"We don't anything."</wrong>	
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The women said, "We know he has done no evil."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The women said that Yusuf was not guilty. In fact, the wife of the minister admitted that she was guilty.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why did the wife say she was wrong?
+			<wrong>She feared the king's punishment.</wrong>
+			<correct>She still loved Yusuf a.s.</correct>
+			<wrong>She feared that the other women would harm her.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			She admitted she was wrong because she still loved Yusuf a.s.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse52.wav</sound>
+			<narrate>
+			Yusuf a.s. said,"I asked for us to gather so that the minister knows that I haven't betrayed him."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Finally, Yusuf was proven innocent.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The king liked Yusuf a.s., and he said, "Today, you are among the nobles and fully trusted."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			So Yusuf a.s. asked the king a favor.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf a.s. ask him?
+			<correct>He asked the king to make him a minister.</correct>
+			<wrong>He asked to become the king.</wrong>
+			<wrong>He asked to live with the king.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf a.s. asked the king to make him the minister.
+			</answer>
+		</touch>
+		<touch>
+			<background>storehouse.jpg</background>
+			<sound>verse55.wav</sound>
+			<narrate>
+			Yusuf said, "Appoint me to control the storehouses of the land; I will guard them intelligently."
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why did Yusuf want to become the minister of the storehouses?
+			<wrong>He wanted to live as a rich person.</wrong>
+			<wrong>He wanted power to destroy Egypt</wrong>
+			<correct>He wanted to rescue hungry nations during the famine.</correct>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf wanted to become a minister so that he can rescue hungry nations during the famine.
+			</answer>
+		</touch>
+		<touch>
+			<background>windowdec.jpg</background>
+			<narrate>
+			For 7 years, Yusuf helped Egypt store crops.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Then, after the seven years, famine spread into Egypt and the neighboring countries including, Yusuf's homeland, Cannan.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Because only Egypt was the only country that prepared for the famine, people from all over place came to Egypt.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			So, Yusuf a.s. advised the king to sell grains at a fair price to the needy nations, and the king agreed.
+			</narrate>
+		</touch>
+		<touch>
+			<background>tree.jpg</background>
+			<narrate>
+			Meanwhile, in Cannan, Ya'qub, Yusuf's father, had decided to get food by sending someone to Egypt.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Who did he send?
+			<wrong>The 10 stepbrothers and Benyamin</wrong>
+			<correct>Only the 10 stepbrothers</correct>
+			<wrong>The 11 stepbrothers</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			He sent the 10 stepbrothers to buy grain from Egypt.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			When the brothers bought the grain, Yusuf saw them. He recognized them, but they didn't recognize Yusuf.
+			<sound>verse58.wav</sound>
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf asked them, "Who are you?"
+			</narrate>
+			</touch>
+		<touch>
+			<question>
+			What did the stepbrothers say?
+			<correct>"We're 11 children of a noble prophet; the youngest is at home."</correct>
+			<wrong>"We're 12 children of a noble prophet; the youngest is at home."</wrong>
+			<wrong>"Yusuf! How did you become a minister."</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			They said, "We're 11 children of a noble prophet; the youngest is at home."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf asked them if they were telling the truth.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The brothers were surprised at the question. It was very disturbing.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf told them that they had to prove that they were telling the truth.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			How were they supposed to prove that they were truthful?		
+			<wrong>They had to bring their noble father to Egypt.</wrong>
+			<correct>They had to bring Benyamin the next time they go to Egypt.</correct>
+			<wrong>The stepbrothers simply punched the minister.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf told them to bring their youngest brother along with them to show him that they were telling the truth.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse60.wav</sound>
+			<narrate>
+			Yusuf continued, "But if you do not bring your youngest brother to me, it would be better if you do not return."
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse61.wav</sound>
+			<narrate>
+			The stepbrothers agreed with Yusuf, and said, "We will try to get permission from our father."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf wanted to be sure that the step brothers came back to Egypt for more grain later.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf do to make them come back to Egypt with Benyamin?
+			<correct>He secretly returned their money into their baggage.</correct>
+			<wrong>He put one of the brothers in prison.</wrong>
+			<wrong>He put a lizard into their bags.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			He secretly returned their money into their baggage, so that they could come back to Egypt.
+			<sound>verse62.wav</sound>
+			</answer>
+		</touch>
+		<touch>
+			<background>cloudsinthedesert.png</background>
+			<narrate>
+			The brothers returned to Cannan, and told them what the minister (Yusuf) said.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse63real.wav</sound>
+			<narrate>
+			They said, "We won't get any more food (once we run out of what we have). So send Benyamin with us (next time we go to Egypt), and we shall get our measure and we will guard him."
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why didn't Ya'qub let Benyamin go with them?
+			<wrong>They could go to America.</wrong>
+			<wrong>Allah revealed that Benyamin would be harmed.</wrong>
+			<correct>He couldn't trust them anymore.</correct>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse64.wav</sound>
+			<answer>
+			Yaqub said, "Can I trust you as I have trusted you with Yusuf?"
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			Suddenly, the brothers found their money in their bag. They figured the minister (Yusuf) returned the money. 
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did they think of the minister?
+			<wrong>They couldn't trust the minister at all.</wrong>
+			<correct>The minister was not planning to harm them.</correct>
+			<wrong>The minister wanted to get all their money.</wrong>		
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The minister was not planning to harm them.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			It was proof that no harm will be done to Benyamin and only more good will come from it.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Finally, when there was no more grains, Yaqub a.s. agreed to send Benyamin with them to Egypt.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			But first the stepbrothers had to agree to what their father told them to do.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Ya'qub want them to do?
+			<correct>They had to swore alliegence.</correct>
+			<wrong>They had to tie Benyamin up so that nothing happenned to him.</wrong>
+			<wrong>They had to give money to Ya'qub.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse66part1.wav</sound>
+			<answer>
+			They swore an alliegence that they would bring Benyamin back unless they were surrrounded by harm.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse66part2.wav</sound>
+			<narrate>
+			After the stepbrothers swore an alliegence, he said, "Allah is the Witness over what we have said."
+			</narrate>
+		</touch>
+		<touch>
+			<background>trees.jpg</background>
+			<narrate>
+			The stepbrothers and Benyamin arrived to Egypt.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf prepare for them?
+			<wrong>He prepared them camels to carry Benyamin home.</wrong>
+			<wrong>He prepared them 10 extra bags of grain.</wrong>
+			<correct>He prepared a feast and seated them in pairs.</correct>		
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf prepared a feast for them and seated them in pairs.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			In the feast, Yusuf a.s. arranged Benyamin to sit next to him. 
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse69.wav</sound>
+			<narrate>
+			Yusuf a.s. admitted to Benyamin that he was his long lost brother, but the rest of the brothers did not know yet.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The next day, they filled their bags with grains.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf tell his servant to do?
+			<wrong>The servant had to kidnap Benyamin.</wrong>
+			<correct>The servant had to put the king's cup into Benyamin's saddle.</correct>
+			<wrong>The servant was told to secretly return their money.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf told his servant to put the king's cup in Benyamin's saddle.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse70.wav</sound>
+			<narrate>
+			As the stepbrothers and Benyamin were about to leave, soldiers stopped them and called them thieves.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The soldiers told them that the king's cup has gone missing.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the brothers say?
+			<correct>"We aren't thieves."</correct>
+			<wrong>"Benyamin must have stole it."</wrong>
+			<wrong>"Don't search our bags."</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			The brothers said, "We aren't thieves.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse73.wav</sound>
+			<narrate>
+			"We didn't come to corrupt."
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse75.wav</sound>
+			<narrate>
+			The soldiers searched the brothers' bags and decided to punish the thief with the law of Cannan.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What does Cannan's law require a theif to do?
+			<wrong>The theif must be thrown into well.</wrong>
+			<correct>The theif becomes a slave to the property's owner.</correct>
+			<wrong>The theif must go to prison.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Cannan's law says that the theif becomes a slave to the property's owner.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse76.wav</sound>
+			<narrate>
+			They found the cup in Benyamin's bag.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse77part1.wav</sound>
+			<narrate>
+			The stepbrothers were surprised and said, "If he steals, then his brother (Yusuf) stole as well."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf got upset when he heard his brothers accusing him of stealing as well.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf do?
+			<wrong>He admitted he was their long lost brother.</wrong>
+			<correct>He kept his mouth shut.</correct>
+			<wrong>He got angry and punished them.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<sound>verse77part2.wav</sound>
+			<answer>
+			Yusuf a.s. kept quiet, even if he didn't like what his brothers said about him.
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			As Yusuf took Benyamin away, the brothers asked Yusuf a favor.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did his stepbrothers ask?
+			<correct>They asked him to take another brother instead of Benyamin.</correct>
+			<wrong>They asked Yusuf to kill Benyamin.</wrong>
+			<wrong>They asked Yusuf to kill all the brothers.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<sound>verse78.wav</sound>
+			<answer>
+			They said, "Take one of us instead of Benyamin."
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse79.wav</sound>
+			<narrate>
+			Yusuf a.s. refused to take another brother in Benyamin's place.
+			</narrate>
+		</touch>
+		<touch>
+			<background>sunset.jpg</background>
+			<narrate>
+			At Yusuf's a.s. place, Benyamin was taken care as a personal guest instead of being a slave. 	
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Yusuf a.s. explained to Benyamin that the cup was placed into his bag in order to keep him behind.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse80part1.wav</sound>
+			<narrate>
+			Meanwhile, his brothers were still deciding whether they should return to Cannan without Benyamin.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Finally, the oldest decided to do something.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did the oldest do?
+			<wrong>He decided to beg the minister to become his slave.</wrong>
+			<wrong>He decided to go to prison so Benyamin can go free.</wrong>
+			<correct>He decided to not leave Egypt.</correct>	
+			</question>
+		</touch>
+		<touch>
+			<sound>verse78.wav</sound>
+			<answer>
+			He said, "I will not leave this land until my father allows me, or Allah decides my case."
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse81.wav</sound>
+			<narrate>
+			He continues, "Return to your father and say: 'O our father! your son (Benyamin) has stolen.'"
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			When Yaqub a.s. heard what his sons told him, he couldn't believe it.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Ya'qub do?
+			<wrong>He punished his sons.</wrong>
+			<correct>He decided to be patient.</correct>	
+			<wrong>He fell over a bridge.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse83.wav</sound>
+			<answer>
+			Ya'qub said, "Patience is most fitting (for me). Maybe Allah will bring them (back) all to me."
+			</answer>
+		</touch>
+		<touch>
+			<background>search.jpg</background>
+			<sound>verse87.wav</sound>
+			<narrate>
+			He said, "O my sons! Find Yusuf a.s. and his brother, and never give up hope of Allah's Mercy."
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The brothers went to Egypt and begged the minister.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse88.wav</sound>
+			<narrate>
+			They said, "A hard time has hit our family, and we have poor capital, so be generous."
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf, the minister, do?
+			<correct>He told his stepbrothers his identity.</correct>
+			<wrong>He took the oldest as a slave instead.</wrong>
+			<wrong>He went to Cannan to meet Ya'qub.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			Yusuf told the brothers his identity.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse90.wav</sound>
+			<narrate>
+			He said, "I am Yusuf and this is my brother (Benjamin). Allah has been gracious to us."
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf do to his stepbrothers?
+			<wrong>He punished them.</wrong>
+			<correct>He forgave them.</correct>
+			<wrong>He took them all as his slaves.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse92.wav</sound>
+			<answer>
+			Instead of punishing, Yusuf forgave his stepbrothers, and said, "No harm on you this day, may Allah forgive you, and He is the Most Merciful of those who show mercy!"
+			</answer>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf tell his brothers afterward?
+			<correct>He wanted his shirt to be put over his father.</correct>
+			<wrong>He wanted to eat his mom's food.</wrong>
+			<wrong>He wanted all their properties.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<answer>
+			He wanted his shirt to be put over his father.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse93.wav</sound>
+			<narrate>
+			He said, "Take my shirt, and place it over my father's face. He will become clear-sighted, and take our family to Egypt."
+			</narrate>
+		</touch>
+		<touch>
+			<background>dream.jpg</background>
+			<narrate>
+			The brothers returned to Cannan and got the family ready to leave Cannan.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			Then, Ya'qub a.s. said something strange.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Ya'qub say?
+			<correct>He said he smells Yusuf a.s.</correct>
+			<wrong>He said he wanted to go to Antartica.</wrong>
+			<wrong>He said he smells Egyptian spices.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse94.wav</sound>
+			<answer>
+			As the family's caravan was moving toward Egypt, he said he smelled Yusuf a.s.
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse95.wav</sound>
+			<narrate>
+			The family thought Ya'qub was getting old.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse96.wav</sound>
+			<narrate>
+			Then Yusuf's a.s. shirt was placed over his Ya'qub's face, and he became clear-sighted.
+			</narrate>
+		</touch>
+		<touch>
+			<sound>verse97.wav</sound>
+			<narrate>
+			The brothers asked their father to ask Allah s.w.t. for forgiveness.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Ya'qub do?
+			<wrong>He punished his sons.</wrong>
+			<correct>He asked Allah s.w.t. to forgive them.</correct>
+			<wrong>He made them work for 2 years non-stop and forgave them.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse98.wav</sound>
+			<answer>
+			Ya'qub said, "I will ask my Lord for forgiveness for you; only He is always forgiving and most merciful."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			The whole family moves out from Cannan and to Egypt where they were greeted by Yusuf a.s.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did his family do when they arrived in Egypt?
+			<correct>They bowed down to Yusuf a.s.</correct>
+			<wrong>They showered him with gifts.</wrong>
+			<wrong>They gave him a feast.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse100part1.wav</sound>
+			<answer>
+			When they arrived, Yusuf's parents were raised to the throne and the whole family bowed down to Yusuf a.s. 
+			</answer>
+		</touch>
+		<touch>
+			<sound>verse100part2.wav</sound>
+			<narrate>
+			And Yusuf a.s. said: "O my father! This is the meaning of my dream of old (when the Moon, the Sun, and 11 stars bowed down to him)! My Lord has made it come true!"
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			His dream becomes true and he prays to Allah s.w.t.
+			</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Yusuf a.s. ask Allah s.w.t. in his prayer?
+			<wrong>He asked Allah to make him a palace in Paradise.</wrong>
+			<correct>He asked Allah to make him Muslim even when he dies.</correct>
+			<wrong>He asked Allah to punish his brothers.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<sound>verse101.wav</sound>
+			<answer>
+			Yusuf says, "Make me to die as a Muslim (the one submitting to Your Will), and join me with the people who do good."
+			</answer>
+		</touch>
+		<touch>
+			<narrate>
+			Amen.
+			</narrate>
+		</touch>
+		<touch>
+			<narrate>
+			The End.
+			</narrate>
+		</touch>
+	</scene>
+</story>

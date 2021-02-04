@@ -1,0 +1,2 @@
+g.SocketState
+g.GSocket

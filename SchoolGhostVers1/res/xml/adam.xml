@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<story>
+    <scene>
+        <touch>
+	        <narrate>Tap to go to next page...</narrate>
+	        <repeatingbackground>gfx/blackscreen.png</repeatingbackground><x>0</x><y>0</y>
+	        
+	         <sound>explosion.ogg</sound>
+	    </touch>
+		<touch>
+	        <narrate>Based on ibn Kathir's Stories of the Prophets.</narrate>
+	    </touch>
+	    <touch>
+	        <narrate>Note: \n  A.S. stands for Alayhisalam, peace be unto him. \n Prophets are represented in white.</narrate>
+	    </touch>
+        <touch>
+	        <narrate>Bismillah... In the name of Allah...</narrate>
+	    </touch>
+		<touch>
+	        <question>Who is the first human?
+				<wrong>Prophet Muhammad</wrong>
+				<wrong>Prophet Nuh</wrong>
+				<correct>Prophet Adam</correct>
+			</question>
+	    </touch>
+	    <touch>
+        	<narrate>Allah the Exalted said to the angels that he \n will create Adam (a.s.), the first human. </narrate>
+        </touch>
+        <touch>
+        	<narrate>Allah the Almighty said,"I am going to place \n mankind generations after generation on Earth." </narrate>
+        </touch>
+		<touch>
+	        <question>What did the angels say?
+				<correct>Humans are going to do evil.</correct>
+				<wrong>Humans will do good. </wrong>
+				<wrong>Angels are evil</wrong>
+			</question>
+	    </touch>
+          <touch>
+        	<narrate>The angels said," Will you place mankind who \n will do evil and kill, while angels praise and \n thank You?" </narrate>
+        </touch>
+        <touch>
+        	<narrate>Allah said, "I know and you don't know." </narrate>
+        </touch>
+    </scene>
+	
+	<scene>
+		<touch>			
+			<question>What did Allah create Adam a.s. with? 
+				<wrong>Metal</wrong>
+				<correct>Clay</correct>
+				<wrong>Wood</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <image>earth.png</image>
+	        	<imageinfo><x>200</x><y>50</y><picsizex>100</picsizex><picsizey>100</picsizey></imageinfo>
+			<narrate>Allah created Adam with clay. </narrate>
+		</touch>
+		<touch>
+			<question>Who is Jibreel? 
+				<correct>Angel</correct>
+				<wrong>Jinn</wrong>
+				<wrong>Alien</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty sent the angel Jibreel \n (Gabriel) to get clay from Earth.</narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<question>What did the angel Jibreel return with?
+				<wrong>Clay</wrong> 
+				<correct>Nothing</correct>
+				<wrong>Wisdom</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When Jibreel arrived, the earth asked Allah to \n protect it from Gabriel taking the clay. </narrate>
+		</touch>
+		<touch>
+			<narrate>Gabriel returned with nothing, and said to Allah, \n "My Lord, the land asked for Your protection, \n and it was given." </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<question>Who did Allah s.w.t. send next? 
+				<wrong>Angel of Death</wrong>
+				<correct>Michael</correct>
+				<wrong>Israfil</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Then, Allah sent the angel Michael to take clay. </narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<narrate>The earth said the same thing to Michael. </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<narrate>Finally, Allah sent the Angel of Death to do \n take clay from Earth. </narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<narrate>The Earth asked Allah for protection. </narrate>
+		</touch>
+		<touch>
+			<question>Why did the Angel of Death say? 
+				<correct>I won't return without getting clay.</correct>
+				<wrong>I'll get the cheese.</wrong>
+				<wrong>I ask Allah to protect you Earth.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>But the Angel of Death said, "I also ask Allah to \n not return without getting the clay." </narrate>
+		</touch>
+		<touch>
+			<question>Why are there different kinds of human beings?
+				<wrong>The clay was taken from Mars.</wrong>
+				<wrong>The clay was painted.</wrong>
+				<correct>The clay was taken from different lands.</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The clay was taken from different lands so \n mankind would be full of different people. </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+			<easelinear>dirtpiled.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<remove>dirtpiled.png</remove>
+			<remove>earth.png</remove>
+			<narrate>Allah soaked the clay and shaped it into a human \n being. </narrate>
+			<image>adamside.png</image>
+	        	<imageinfo><x>100</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+		</touch>
+		<touch>
+			<question>When did Allah blow the soul into Adam? 
+				<wrong>Right after he shaped it.</wrong>
+				<correct>After fourty years.</correct>
+				<wrong>In ten years.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The human figure remained standing still for \n fourty years. </narrate>
+		</touch>
+		<touch>
+			<narrate>The angels and Iblis (Satan) were scared of it. </narrate>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>adamside.png</remove>
+			<repeatingspritebackground>gfx/background_paradise.png</repeatingspritebackground>
+			<narrate>After fourty years, the soul was blown into the \n human being, Adam a.s. </narrate>
+			<image>adamsidewhite.png</image>
+	        	<imageinfo><x>150</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+			<alternatingimage>sparkle_tiled.png</alternatingimage>
+		    	<altimgpoints><x>150</x><y>100</y></altimgpoints>
+			
+		</touch>
+		<touch>
+			<question>What happenned when the soul went into the body?
+			<wrong>Adam a.s. coughed.</wrong> 
+			<correct>He sneezed.</correct>
+			<wrong>He threwup.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When the soul went inside Adam a.s., Adam \n sneezed.</narrate>
+		</touch>
+		<touch>
+			<question>What did the angels say?
+			<wrong>Your Lord has gven you mercy.</wrong> 
+			<wrong>Astaghfirullah</wrong>
+			<correct> Alhamdulilah.</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The angels said to Adam, "Say Alhamdulilah \n (all praise belongs to Allah)."</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam repeated, "Alhamdulilah."</narrate>
+		</touch>
+		<touch>
+			<question>What do you say when someone sneezes?
+			<wrong>Insha Allah</wrong> 
+			<wrong>Masha Allah</wrong>
+			<correct>Yarhamukullah</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah said to Adam, "Your Lord has given you \n mercy."</narrate>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>sparkled_tiled.png</remove>
+			<narrate>Allah told the angels to bow down to Adam out of \n respect. </narrate>
+			<easelinear>angel_bow_only.png</easelinear>
+		    	<easepoints><x>300</x><y>100</y><x>180</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<image>fireside.png</image>
+	        	<imageinfo><x>200</x><y>100</y><picsizex>26</picsizex><picsizey>32</picsizey></imageinfo>
+			<narrate>Everyone bowed down except Iblis.</narrate>			
+		</touch>
+		<touch>
+			<question>Why didn't Iblis bow down as well?
+			<correct>He thought fire is better than clay.</correct>			
+			<wrong>He thought clay was good.</wrong> 
+			<wrong>He didn't like bowing.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He said,"Why must I bow down to the one \n you created from clay?"</narrate>			
+		</touch>
+		<touch>
+			<narrate>He thought fire was better than clay.</narrate>			
+		</touch>
+		<touch>
+			<narrate>Allah said to Iblis,"Get down from this Paradise, \n it is not a place for you to act arrogant."</narrate>			
+		</touch>
+		<touch>
+			<narrate>Iblis said, "Allow me time until the Day of \n Judgement."</narrate>			
+		</touch>
+		<touch>
+			<question>Why did Iblis want time?
+			<wrong>He wanted to play.</wrong> 
+			<correct>He wanted Adam and his children to go to hell.</correct>	
+			<wrong>He wanted to asked for forgiveness.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He wanted to make Adam's children go to Hell.</narrate>			
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty said, "You are allowed time."</narrate>			
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>fireside.png</remove>
+			<remove>adamsidewhite.png</remove>
+			<narrate>Allah the Almighty told Adam to meet with the \n angels.</narrate>	
+			<animatesprite>adam.png</animatesprite>
+		    <path>
+		        <x>100</x><y>100</y><picx>6</picx><picy>8</picy>
+		        <x>150</x><y>100</y><picx>3</picx><picy>5</picy>
+		        <x>170</x><y>100</y><picx>0</picx><picy>2</picy>
+		        <x>180</x><y>100</y><picx>9</picx><picy>11</picy>
+		    </path>
+		</touch>
+		<touch>
+			<remove>adam.png</remove>
+			<image>adamsidewhite.png</image>
+	        	<imageinfo><x>180</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+			<question>How did the angels greet Adam?
+			<wrong>Hello!</wrong> 
+			<wrong>How's it going? </wrong>
+			<correct>Peace be unto you.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Adam went to the angels and the angels said, \n "Peace be unto you and the mercy and \n blessings of Allah."</narrate>
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty said to Adam,"This is the way \n you and your children greet."</narrate>
+		</touch>
+	</scene>
+	
+	<scene>
+	</scene>
+	
+     <scene>
+		<touch>
+        	<narrate>The dust was taken from different lands \n so mankind would be full of different people.</narrate>
+        	 <easelinear>dirtpiled.png</easelinear>
+		    	<easepoints><x>200</x><y>200</y><x>200</x><y>100</y></easepoints>
+        </touch>
+        <touch>
+        	<narrate>The dust was shaped into a human being \n and his spirit was blown in. </narrate>
+        	<image>face_box.png</image>
+	        	<imageinfo><x>100</x><y>100</y><picsizex>32</picsizex><picsizey>32</picsizey></imageinfo>
+        </touch>  
+        <touch>
+	        <narrate>After, Allah the Exalted told the angels \n  to bow down to Adam a.s.</narrate>
+	        <repeatingbackground>gfx/background_paradise.png</repeatingbackground><x>0</x><y>0</y>
+	        <easelinear>angel_bow_only.png</easelinear>
+		    	<easepoints><x>200</x><y>200</y><x>200</x><y>100</y></easepoints>
+		    <remove>dirtpiled.png</remove>       
+	    </touch>
+        <touch>
+	        <narrate>The angels bowed down except for Iblees, \n who is also Satan.</narrate>
+	        <animatesprite>fire.png</animatesprite>
+		    <path>
+		        <x>200</x><y>200</y><picx>6</picx><picy>8</picy>
+		        <x>200</x><y>250</y><picx>3</picx><picy>5</picy>
+		        <x>250</x><y>250</y><picx>0</picx><picy>2</picy>
+		        <x>250</x><y>200</y><picx>9</picx><picy>11</picy>
+		    </path>
+	    </touch>
+	    <touch>
+        	<narrate>He said,"Why must I bow down to the one \n you created from clay?" </narrate>
+        </touch>
+        <touch>
+        	<narrate>He thought fire was better than clay.</narrate>
+        </touch>
+    </scene>
+    <scene>
+        <touch>
+	        <narrate>Then, Allah granted Adam knowledge and  \n gave Adam the desire to learn. </narrate>
+	        	 
+		    <remove>fire.png</remove>       
+	    </touch>
+        
+     </scene>
+	 <scene>
+        <touch>
+		    <repeatingbackground>gfx/background_earth.png</repeatingbackground>
+		    <narrate>Tap to continue.</narrate>
+		    <easelinear>dirtpiled.png</easelinear>
+		    	<easepoints><x>200</x><y>200</y><x>100</x><y>100</y></easepoints>
+		    <alternatingimage>face_box_tiled.png</alternatingimage>
+		    	<altimgpoints><x>300</x><y>100</y></altimgpoints>
+		    
+	    </touch>
+	    <touch>
+		    <narrate>Welcome to 8-bit paradise.</narrate>
+		    <animatesprite>player.png</animatesprite>
+		    <path>
+		        <x>10</x><y>10</y><picx>6</picx><picy>8</picy>
+		        <x>100</x><y>9</y><picx>3</picx><picy>5</picy>
+		        <x>9</x><y>9</y><picx>0</picx><picy>2</picy>
+		        <x>100</x><y>9</y><picx>9</picx><picy>11</picy>
+		    </path>
+		    <sound>explosion.ogg</sound>
+		    <remove>face_box_tiled.png</remove>
+		</touch>
+	</scene>
+	
+</story>

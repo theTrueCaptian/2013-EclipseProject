@@ -1,0 +1,11 @@
+# Blender v2.67 (sub 0) OBJ File: 'grass.blend'
+# www.blender.org
+mtllib grass.mtl
+o Plane
+v 9.886788 0.081065 8.085917
+v -10.113212 0.081065 8.085917
+v 9.886788 0.081065 -11.914083
+v -10.113212 0.081065 -11.914083
+usemtl greenmaterial
+s off
+f 2 1 3 4

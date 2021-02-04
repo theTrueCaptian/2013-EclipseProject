@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<story>
+    <scene>
+        <touch>
+            <sound>epicBismillah.wav</sound>
+	        <narrate>Tap to go to next page...</narrate>
+	        <repeatingbackground>gfx/background_paradise.png</repeatingbackground><x>0</x><y>0</y>
+	        <background>starrysky.png</background>
+	        
+	         <sound>explosion.ogg</sound>
+	    </touch>
+		<touch>
+	        <narrate>Based on ibn Kathir's Stories of the Prophets.</narrate>
+	        
+	    </touch>
+	    <touch>
+	        <narrate>Note: A.S. stands for Alayhisalam, peace be unto him. </narrate>
+	    </touch>
+        <touch>
+	        <narrate>Bismillah... In the name of Allah...</narrate>
+	    </touch>
+		<touch>
+	        <question>Who is the first human?
+				<wrong>Prophet Muhammad.</wrong>
+				<wrong>Prophet Nuh.</wrong>
+				<correct>Prophet Adam.</correct>
+			</question>
+	    </touch>
+	    <touch>
+        	<narrate>Allah the Exalted said to the angels that he will create Adam (a.s.), the first human. </narrate>
+        </touch>
+        <touch>
+        	<narrate>Allah the Almighty said,"I am going to place mankind generations after generation on Earth." </narrate>
+        </touch>
+		<touch>
+	        <question>What did the angels say?
+				<correct>Humans are going to do evil.</correct>
+				<wrong>Humans will do good. .</wrong>
+				<wrong>Angels are evil.</wrong>
+			</question>
+	    </touch>
+          <touch>
+        	<narrate>The angels said," Will you place mankind who will do evil and kill, while angels praise and thank You?" </narrate>
+        </touch>
+        <touch>
+        	<narrate>Allah said, "I know and you don't know." </narrate>
+        </touch>
+    </scene>
+	
+	<scene>
+		<touch>			
+			<question>What did Allah create Adam a.s. with? 
+				<wrong>Metal.</wrong>
+				<correct>Clay.</correct>
+				<wrong>Wood.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <image>earth.png</image>
+	        	<imageinfo><x>200</x><y>50</y><picsizex>100</picsizex><picsizey>100</picsizey></imageinfo>
+			<narrate>Allah created Adam with clay. </narrate>
+		</touch>
+		<touch>
+			<question>Who is Jibreel? 
+				<correct>Angel.</correct>
+				<wrong>Jinn.</wrong>
+				<wrong>Alien.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty sent the angel Jibreel (Gabriel) to get clay from Earth.</narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<question>What did the angel Jibreel return with?
+				<wrong>Clay.</wrong> 
+				<correct>Nothing.</correct>
+				<wrong>Wisdom.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When Jibreel arrived, the earth asked Allah to protect it from Gabriel taking the clay. </narrate>
+		</touch>
+		<touch>
+			<narrate>Gabriel returned with nothing, and said to Allah, "My Lord, the land asked for Your protection, and it was given." </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<question>Who did Allah s.w.t. send next? 
+				<wrong>Angel of Death.</wrong>
+				<correct>Michael.</correct>
+				<wrong>Israfil.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Then, Allah sent the angel Michael to take clay. </narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<narrate>The earth said the same thing to Michael. </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<narrate>Finally, Allah sent the Angel of Death to take clay from Earth. </narrate>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>0</y><x>200</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<narrate>The Earth asked Allah for protection. </narrate>
+		</touch>
+		<touch>
+			<question>Why did the Angel of Death say? 
+				<correct>I won't return without getting clay.</correct>
+				<wrong>I'll get the cheese.</wrong>
+				<wrong>I ask Allah to protect you Earth.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>But the Angel of Death said, "I also ask Allah to not return without getting the clay." </narrate>
+		</touch>
+		<touch>
+			<question>Why are there different kinds of human beings?
+				<wrong>The clay was taken from Mars.</wrong>
+				<wrong>The clay was painted.</wrong>
+				<correct>The clay was taken from different lands.</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The clay was taken from different lands so mankind would be full of different people. </narrate>
+			<remove>angel_stand.png</remove>
+			<easelinear>angel_stand.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+			<easelinear>dirtpiled.png</easelinear>
+		    	<easepoints><x>200</x><y>100</y><x>0</x><y>100</y></easepoints>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>angel_stand.png</remove>
+			<remove>dirtpiled.png</remove>
+			<remove>earth.png</remove>
+			
+			<narrate>Allah soaked the clay and shaped it into a human being. </narrate>
+		</touch>
+		<touch>
+			<question>When did Allah blow the soul into Adam? 
+				<wrong>Right after he shaped it.</wrong>
+				<correct>After fourty years.</correct>
+				<wrong>In ten years.</wrong>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The human figure remained standing still for fourty years. </narrate>
+		</touch>
+		<touch>
+			<narrate>The angels and Iblis (Satan) were scared of it. </narrate>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+		    <remove>starrysky.png</remove>
+		    <remove>gfx/blackscreen.png</remove>
+			<repeatingspritebackground>gfx/blackscreen.png</repeatingspritebackground><x>0</x><y>0</y>
+			<narrate>After fourty years, the soul was blown into the human being, Adam a.s. </narrate>
+			<image>dirtpiled.png</image>
+	        	<imageinfo><x>150</x><y>100</y><picsizex>100</picsizex><picsizey>100</picsizey></imageinfo>
+			<alternatingimage>sparkle_tiled.png</alternatingimage>
+		    	<altimgpoints><x>180</x><y>100</y></altimgpoints>
+			
+		</touch>
+		<touch>
+			<question>What happenned when the soul went into the body?
+			<wrong>Adam a.s. coughed.</wrong> 
+			<correct>He sneezed.</correct>
+			<wrong>He threwup.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When the soul went inside Adam a.s., Adam sneezed.</narrate>
+		</touch>
+		<touch>
+			<question>What did the angels say?
+			<wrong>Your Lord has gven you mercy.</wrong> 
+			<wrong>Astaghfirullah.</wrong>
+			<correct> Alhamdulilah.</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>The angels said to Adam, "Say Alhamdulilah (all praise belongs to Allah)."</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam repeated, "Alhamdulilah."</narrate>
+		</touch>
+		<touch>
+			<question>What do you say when someone sneezes?
+			<wrong>Insha Allah.</wrong> 
+			<wrong>Masha Allah.</wrong>
+			<correct>Yarhamukullah.</correct>			
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah said to Adam, "Your Lord has given you mercy."</narrate>
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>sparkle_tiled.png</remove>
+			<remove>dirtpiled.png</remove>
+			<narrate>Allah told the angels to bow down to Adam out of respect. </narrate>
+			<easelinear>angel_bow_only.png</easelinear>
+		    	<easepoints><x>300</x><y>100</y><x>180</x><y>100</y></easepoints>
+		</touch>
+		<touch>
+			<image>fireside.png</image>
+	        	<imageinfo><x>290</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+			<narrate>Everyone bowed down except Iblis.</narrate>			
+		</touch>
+		<touch>
+			<question>Why didn't Iblis bow down as well?
+			<correct>He thought fire is better than clay.</correct>			
+			<wrong>He thought clay was good.</wrong> 
+			<wrong>He didn't like bowing.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He said,"Why must I bow down to the one you created from clay?"</narrate>			
+		</touch>
+		<touch>
+			<narrate>He thought fire was better than clay.</narrate>			
+		</touch>
+		<touch>
+			<narrate>Allah said to Iblis,"Get down from this Paradise, it is not a place for you to act arrogant."</narrate>			
+		</touch>
+		<touch>
+			<narrate>Iblis said, "Allow me time until the Day of Judgement."</narrate>			
+		</touch>
+		<touch>
+			<question>Why did Iblis want time?
+			<wrong>He wanted to play.</wrong> 
+			<correct>He wanted Adam and his children to go to hell.</correct>	
+			<wrong>He wanted to asked for forgiveness.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He wanted to make Adam's children go to Hell.</narrate>			
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty said, "You are allowed time."</narrate>			
+		</touch>
+	</scene>
+	
+	<scene>
+		<touch>
+			<remove>fireside.png</remove>
+			<remove>angel_bow_only.png</remove>
+			<narrate>Allah the Almighty told Adam to meet with the angels.</narrate>	
+			<image>angel_stand.png</image>
+	        	<imageinfo><x>180</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+		</touch>
+		<touch>
+			<question>How did the angels greet Adam?
+			<wrong>Hello!.</wrong> 
+			<wrong>How's it going? .</wrong>
+			<correct>Peace be unto you.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Adam went to the angels and the angels said, "Peace be unto you and the mercy and blessings of Allah."</narrate>
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty said to Adam,"This is the way you and your children greet."</narrate>
+		</touch>
+	</scene>
+	 
+
+
+	<scene>
+		<touch>
+			<narrate>Then, Allah granted Adam knowledge and gave Adam the desire to learn.</narrate>
+			<image>book.png</image>
+	        	<imageinfo><x>100</x><y>100</y><picsizex>101</picsizex><picsizey>100</picsizey></imageinfo>
+		</touch>
+		<touch>
+			<narrate>Allah asked the angels about the names of things.</narrate>
+		</touch>
+		<touch>
+			<question>What did the angels do?
+			<wrong>They said they knew alot.</wrong> 
+			<correct>They said they didn't know.</correct>
+			<wrong>They said they need to search the dictionary. .</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>The angels said, "Praise be to You, we don't know except what You have taught us. You are the All Knowing, the All Wise."</narrate>
+		</touch>
+		<touch>
+			<narrate>Allah told Adam to say the names of the things.</narrate>
+		</touch>
+		<touch>
+			<question>What is one of the greatest quality Adam had?
+			<correct>Knowledge.</correct>
+			<wrong>Cheese.</wrong> 
+			<wrong>Hands.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>The angels realized Adam's greatest quality was knowledge of things about things they didn't even know.</narrate>
+			<image>angel_stand.png</image>
+	        	<imageinfo><x>180</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+		</touch>
+	</scene>
+
+    <scene>
+		<touch>
+			<question>Why did Adam feel lonely?
+			<wrong>The Angels played soccer too hard.</wrong> 
+			<correct>The angels prayed too much.</correct>
+			<wrong>The angels spoke a different language.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <remove>book.png</remove>
+			<narrate>Soon Adam became lonely because the angels were too busy praying to Allah the Exalted.</narrate>
+		</touch>
+		<touch>
+			<question>How is the first woman created?
+			<correct>From Adam's ribs.</correct>
+			<wrong>From a nearby tree.</wrong> 
+			<wrong>From Adam's foot.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <remove>angel_stand.png</remove>
+			<narrate>So, Allah created a woman from Adam's rib.</narrate>
+		</touch>
+	</scene>
+	 <scene>
+		<touch>
+			<question>What did Adam name the first lady?
+				<wrong>Fatima.</wrong>
+				<wrong>John.</wrong>
+				<correct>Hawa.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>The angels asked Adam what her name was, and he said that her name is Hawa (Eve).</narrate>
+		</touch>
+		<touch>
+			<narrate>Then, Allah told Adam and Hawa to enjoy living in Paradise and told them to not eat the fruits from a certian tree.</narrate>
+			<image>tree.png</image>
+	        	<imageinfo><x>180</x><y>100</y><picsizex>100</picsizex><picsizey>100</picsizey></imageinfo>
+		</touch>
+		<touch>
+			<question>Who told them to eat from the tree?
+				<wrong>Serpent.</wrong>
+				<wrong>Hawa.</wrong>
+				<correct>Ibis (Satan).</correct>
+			</question>
+		</touch>
+		<touch>
+		    <image>fireside.png</image>
+	        	<imageinfo><x>300</x><y>100</y><picsizex>64</picsizex><picsizey>64</picsizey></imageinfo>
+			<narrate>But Iblis convinced Adam and Hawa to eat from the forbidden tree.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam and Hawa ate from the tree.</narrate>
+		</touch>
+		<touch>
+			<question>What happenned to Adam and Hawa? 
+				<wrong>They were punished.</wrong>
+				<correct>They became naked.</correct>
+				<wrong>They were sent to the fire.</wrong>				
+			</question>
+		</touch>
+		<touch>
+			<narrate>But they realized they disobeyed Allah their Lord and they became naked.</narrate>
+		</touch>
+		<touch>
+			<narrate>So they covered themselves with leaves.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+		    <remove>tree.png</remove>
+		    <remove>fireside.png</remove>
+		    <remove>angel_stand.png</remove>    
+			<repeatingbackground>gfx/background_earth.png</repeatingbackground><x>0</x><y>0</y>
+			<narrate>Allah sent Adam and Hawa to Earth.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam and Hawa cried for forgiveness. Allah forgave them, because they were sincere. </narrate>
+		</touch>
+		<touch>
+			<narrate>Adam knew that Iblis(Satan) was an enemy.</narrate>
+		</touch>
+		<touch>
+			<narrate>He also knew that disobeying Allah would lead to punishment.</narrate>
+		</touch>
+		<touch>
+			<narrate>The only way to Paradise is through Allah.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+			<background>underwater.png</background>
+			<narrate>After a period of time, Adam and Hawa have their first babies, a set of twin.</narrate>
+		</touch>
+		<touch>
+			<question>
+			Who was born first? 
+			<wrong>Habil and his twin.</wrong>
+			<correct>Qabil and his twin.</correct>
+			<wrong>Shiith.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>The babies were Qabil(Cain) and his twin sister.</narrate>
+		</touch>
+		<touch>
+			<narrate>Later, Hawa gave birth to another set of twins, Habil and his twin sister.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Qabil do when he grew up?
+			<correct>Qabil tilled the land.</correct>
+			<wrong>Qabil made buildings.</wrong>
+			<wrong>Qabil raised cattle.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When the kids grew up, Qabil tilled the land, while Habil raised cattle.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+			<question>
+			Allah told Qabil to marry who?
+			<correct>Qabil had to marry Habil's twin sister.</correct>
+			<wrong>Qabil had to marry his twin sister.</wrong>
+			<wrong>Qabil had to marry Hawa.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah the Almighty told Adam that Qabil must marry Habil's sister and Habil to Qabil's siter.</narrate>
+		</touch>
+		<touch>
+			<question>
+			Who was not happy to get married?
+			<wrong>Shiith.</wrong>
+			<wrong>Habil.</wrong>
+			<correct>Qabil.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>But Qabil didn't like Habil's sister. He became jealous of Habil, because Qabil was not happy.</narrate>
+		</touch>
+		<touch>
+		    <background>mountains.png</background>
+			<narrate>Adam wanted peace in his family, so he asked Allah for help.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Allah tell Habil and Qabil to do?
+			<correct> Allah told them to give a sacrifice.</correct>
+			<wrong>Allah told them to not get married.</wrong>
+			<wrong>Allah told them to fight.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Allah told Adam that his sons must give a sacrifice.</narrate>
+		</touch>
+		<touch>
+			<question>
+			Which sacrifice did Allah accept?
+			<wrong>Allah accepted Qabil's sacrifice.</wrong>
+			<correct>Allah accepted Habil's sacrifice.</correct>
+			<wrong>Allah accepted all their sacrifices.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Habil offered his best camel, but Qabil offered his worst grain.</narrate>
+		</touch>
+		<touch>
+			<narrate>Allah didn't accept Qabil's sacrifice. </narrate>
+		</touch>
+		<touch>
+			<narrate>It made Qabil angry.</narrate>
+		</touch>
+		<touch>
+			<question>
+			Why was Qabil angry at Habil?
+			<correct>Qabil didn't want to be sad.</correct>
+			<wrong>Qabil wanted to raise cattle like Habil.</wrong>
+			<wrong>Qabil didn't like tilling land.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Qabil said to Habil,"I will kill you! I don't want to see you happy while I am not happy!"</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Habil say?
+			<wrong>"I hate you too. Let's fight!".</wrong>
+			<correct>"Act peacefully.".</correct>
+			<wrong>He threw a rock at Qabil.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Habil felt sorry for his brother, and replied, "I think it is right if you act peacefully."</narrate>
+		</touch>
+		<touch>
+			<question>
+			Who does Allah accept actions from?
+			<wrong> Allah accepts from people who do not listen His Commands.</wrong>
+			<wrong>Allah doesn't accept from people.</wrong>
+			<correct>Allah accepts actions from people who listen and fear Him.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>"Allah accepts actions from those who listen and fear Him, not those who do not listen to His Commands."</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+			<question>
+			Who committed the first crime to another human on Earth?
+			<correct>Qabil.</correct>
+			<wrong>Jinns.</wrong>
+			<wrong>Habil.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <background>coldmountain.png</background>
+			<narrate>Qabil threw a stone at Habil, and Habil died.</narrate>
+		</touch>
+		<touch>
+			<narrate>Qabil committed the first crime and murder on Earth.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam noticed that Habil was gone. He asked Qabil where Habil is.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What did Qabil say?
+			<wrong>"A car crashed him.".</wrong>
+			<correct>Qabil said he can't protect his brother.</correct>
+			<wrong>Qabil said that he went to take care of the farm.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>Qabil said that he doesn't take care of his brother and that he doesn't protect him.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam figured that Habil was dead and he became sad.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+			<narrate>Meanwhile, Qabil didn't know what to do with Habil's dead body.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What was Qabil trying to do with the body?
+			<correct>Qabil wanted to hide it.</correct>
+			<wrong>Qabil was planning to burn the body in a far away place.</wrong>
+			<wrong>He wanted the animals to eat the body.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He carried the body on his back and tried to find a place to hide it.</narrate>
+		</touch>
+		<touch>
+			<narrate>He felt sorry for what he did, and became tired carrying the dead body.</narrate>
+		</touch>
+		<touch>
+			<narrate>Allah gave Qabil mercy by sending two birds to Qabil.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What were the birds doing?
+			<wrong>The birds were eaten by Qabil.</wrong>
+			<correct>The birds fought and one of them died.</correct>
+			<wrong>The birds ate Habil's dead body.</wrong>
+			</question>
+		</touch>
+		<touch>
+		    <background>wizardtower.png</background>
+			<narrate>The two birds started fighting each other, and one of the birds died.</narrate>
+		</touch>
+		<touch>
+			<narrate>The bird who was alive dug a hole on the ground and rolled the other bird's dead body into the hole.</narrate>
+		</touch>
+		<touch>
+			<question>
+			When Qabil saw the birds, what lesson did he learn?
+			<correct>He learned how to deal with a dead body.</correct>
+			<wrong>He learned that birds fight too.</wrong>
+			<wrong>He learned that birds can dig holes.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>He realized that he should bury the dead body.</narrate>
+		</touch>
+		<touch>
+			<narrate>Qabil followed what the bird did and buried his brother's dead body into the ground.</narrate>
+		</touch>
+		<touch>
+			<narrate>Qabil was the first person to bury another human.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+		    <background>chalky-space.png</background>
+			<narrate>Adam was sad. One was dead and the other was won over by Satan.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam prayed from his sons.</narrate>
+		</touch>
+		<touch>
+			<narrate>Adam was a prophet too. He told his children about Allah and warned them about Iblis.</narrate>
+		</touch>
+		<touch>
+			<question>
+			Who was Adam's successor after he died?
+			<wrong>Muhammad(pbuh).</wrong>
+			<wrong>Qabil.</wrong>
+			<correct>Shiith.</correct>
+			</question>
+		</touch>
+		<touch>
+			<narrate>When Adam grew old, he made his son, Shiith (Seth), to succeed him.</narrate>
+		</touch>
+	</scene>
+	<scene>
+		<touch>
+			<question>
+			Before Adam died, what did he tell his children?
+			<wrong>He said that cars will be created as a blessing from Allah.</wrong>
+			<wrong>"I want to be covered in white.".</wrong>
+			<correct>He said that Allah will send prophets to guide them.</correct>
+			</question>
+		</touch>
+		<touch>
+		    <background>dream.jpg</background>
+			<narrate>Before Adam died, he told his children that Allah would send prophets to guide them.</narrate>
+		</touch>
+		<touch>
+			<question>
+			What is the job of the prophets?
+			<wrong>They have to make sure the people have enough food.</wrong>
+			<correct>They have to tell people to pray to Allah alone.</correct>
+			<wrong>They have to perform magic.</wrong>
+			</question>
+		</touch>
+		<touch>
+			<narrate>The prophets would tell the people to pray to Allah alone. </narrate>
+		</touch>
+		<touch>
+			<narrate>Then the Angel of Death took Adam's soul, and his children buried his body.</narrate>
+		</touch>
+		<touch>
+			<narrate>May Allah the Almighty send peace and blessings to our father and the prophet Adam. Amen.</narrate>
+		</touch>
+	</scene>
+	
+
+</story>
